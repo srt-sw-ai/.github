@@ -34,3 +34,4 @@
 | Infra | 손보석, 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white"/>| 애플리케이션 서버의 인프라 구축을 담당합니다. | 경북소프트웨어고 | 소프트웨어개발과 |
 
 ## AWS EKS CICD Pipeline Architecture
+<img width="455" alt="eks cicd" src="https://github.com/user-attachments/assets/045fdbac-0549-4bf0-9ca7-7696286069e3" />
