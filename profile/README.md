@@ -28,9 +28,9 @@
 
 | 분야 | 담당자 | 기술 | 간단소개 | 소속 | 학과 |
 | ------------- | ---------------------- | -------------------------- | ----------------------- | ----------------------------  | -------------- | 
-| Design  | 손보석 | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>| 애플리케이션의 디자인을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
-| App  | 박성민 | <img src="https://img.shields.io/badge/Swift-E0234E?style=flat-square&logo=Swift&logoColor=white"/>| 애플리케이션의 화면구현 및 기능개발을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
-| Backend | 유진승 | <img src="https://img.shields.io/badge/Go-61DAFB?style=flat-square&logo=Go&logoColor=white"/>| 애플리케이션의 서버 및 API 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
-| Infra | 손보석, 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white"/>| 애플리케이션 서버의 인프라 구축을 담당합니다. | 경북소프트웨어고등학교 | 소프트웨어개발과 |
+| Design  | 손보석 | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>| 애플리케이션의 디자인을 담당합니다. | 경북소프트웨어고 | 소프트웨어개발과 |
+| App  | 박성민 | <img src="https://img.shields.io/badge/Swift-E0234E?style=flat-square&logo=Swift&logoColor=white"/>| 애플리케이션의 화면구현 및 기능개발을 담당합니다. | 경북소프트웨어고 | 소프트웨어개발과 |
+| Backend | 유진승 | <img src="https://img.shields.io/badge/Go-61DAFB?style=flat-square&logo=Go&logoColor=white"/>| 애플리케이션의 서버 및 API 구축을 담당합니다. | 경북소프트웨어고 | 소프트웨어개발과 |
+| Infra | 손보석, 유진승 | <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white"/>| 애플리케이션 서버의 인프라 구축을 담당합니다. | 경북소프트웨어고 | 소프트웨어개발과 |
 
 ## AWS EKS CICD Pipeline Architecture
